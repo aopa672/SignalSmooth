@@ -1,0 +1,2 @@
+# SignalSmooth
+Smooths signal data
